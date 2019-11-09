@@ -1,0 +1,13 @@
+html, body{
+    background-color: black;
+    color: white    ;
+}
+input{
+    background: black;
+    color: white;
+    border: 0px solid #000;
+    width: 95%
+}
+input::placeholder{
+    color: white;
+}
